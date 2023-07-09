@@ -12,3 +12,4 @@ git commit -m "mensagem": insere mensagem no versionamento de alterações
 git push origin "main" ou "nome da branch": empurra para o github as alterações locais  
 git switch "nome da brach": altera a branch em uso  
 git branch: lista as branchs do repositório e mostra a branch em uso com (*)  
+git merge <branch>: é o comando utilizado para mesclar as alterações de uma branch na branch atual  
