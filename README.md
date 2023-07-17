@@ -3,7 +3,8 @@
 > Status do treinamento: Em andamento
 
 > Comandos do Git:
-ls ou dir: lista o diretório  
+ls ou dir: lista o diretório 
+git clone <endereço url do git hub>: Para clonar um repositório remoto do GitHub chamado "meu-repositorio" para o diretório atual
 git log: lista as alterações no repositório/brach   
 git log --oneline: lista as alterações de forma resumida no repositório/brach
 git checkout -b "nome da brach": cria uma branch  
